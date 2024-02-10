@@ -40,6 +40,8 @@ import pytorch_sphinx_theme
 
 # -- General configuration ------------------------------------------------
 
+html_baseurl = "https://QubitPi.github.io/pytorch/"
+
 # If your documentation needs a minimal Sphinx version, state it here.
 #
 needs_sphinx = "3.1.2"
